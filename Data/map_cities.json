@@ -1,7 +1,7 @@
 [
   {
     "city_id": 1,
-    "city": New "New York",
+    "city":"New New York",
     "state": "NY",
     "region": "Northeast",
     "updated_at" : "2026-08-12T23:30:57.241+00:00"
